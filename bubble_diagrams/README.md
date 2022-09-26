@@ -1,3 +1,4 @@
+* [Nouns_1820_1915](https://valrcs.github.io/latviesu_avizes_200/bubble_diagrams/Nouns_1820_1915.html)
 * [NOUN_1820](https://valrcs.github.io/latviesu_avizes_200/bubble_diagrams/NOUN_1820.html)
 * [NOUN_1830](https://valrcs.github.io/latviesu_avizes_200/bubble_diagrams/NOUN_1830.html)
 * [NOUN_1840](https://valrcs.github.io/latviesu_avizes_200/bubble_diagrams/NOUN_1840.html)
@@ -8,6 +9,7 @@
 * [NOUN_1890](https://valrcs.github.io/latviesu_avizes_200/bubble_diagrams/NOUN_1890.html)
 * [NOUN_1900](https://valrcs.github.io/latviesu_avizes_200/bubble_diagrams/NOUN_1900.html)
 * [NOUN_1910](https://valrcs.github.io/latviesu_avizes_200/bubble_diagrams/NOUN_1910.html)
+* [Verbs_1820_1915](https://valrcs.github.io/latviesu_avizes_200/bubble_diagrams/Verbs_1820_1915.html)
 * [VERB_1820](https://valrcs.github.io/latviesu_avizes_200/bubble_diagrams/VERB_1820.html)
 * [VERB_1830](https://valrcs.github.io/latviesu_avizes_200/bubble_diagrams/VERB_1830.html)
 * [VERB_1840](https://valrcs.github.io/latviesu_avizes_200/bubble_diagrams/VERB_1840.html)

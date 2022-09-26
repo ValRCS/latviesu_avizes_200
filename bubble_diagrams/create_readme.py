@@ -8,3 +8,8 @@ links = [f'* [Link]({url_prefix}{f})' for f in html_files]
 with open('bubble_diagrams/README.md', 'w') as f:
     f.write('\n'.join(links))
 
+# append to ROOT readme.md
+with open('README.md', 'a') as f:
+    f.write('\n## Bubble diagrams\n')
+    f.write('\n'.join(links))
+
